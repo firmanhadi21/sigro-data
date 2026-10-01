@@ -1,0 +1,19 @@
+{
+  "name": "Semarang",
+  "slug": "semarang",
+  "province": "Jawa Tengah",
+  "osm_query": "Kota Semarang, Jawa Tengah, Indonesia",
+  "lat": -6.99,
+  "lon": 110.42,
+  "epsg_utm": 32749,
+  "bps_code": "3374",
+  "coastal": true,
+  "bbox": [
+    110.26,
+    -7.12,
+    110.51,
+    -6.92
+  ],
+  "luas_resmi_km2": 373.70,
+  "luas_resmi_sumber": "BPS / Wikipedia"
+}

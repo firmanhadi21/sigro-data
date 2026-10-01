@@ -1,0 +1,19 @@
+{
+  "name": "Makassar",
+  "slug": "makassar",
+  "province": "Sulawesi Selatan",
+  "osm_query": "Kota Makassar, Sulawesi Selatan, Indonesia",
+  "lat": -5.14,
+  "lon": 119.43,
+  "epsg_utm": 32750,
+  "bps_code": "7371",
+  "coastal": true,
+  "bbox": [
+    119.37,
+    -5.23,
+    119.56,
+    -5.03
+  ],
+  "luas_resmi_km2": 175.77,
+  "luas_resmi_sumber": "BPS"
+}
