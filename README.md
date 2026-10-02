@@ -9,7 +9,7 @@ ada di halaman [Releases](https://github.com/firmanhadi21/sigro-data/releases), 
 | Analitik Geospasial Perkotaan | [`analitik-geospasial-perkotaan/`](analitik-geospasial-perkotaan/) | [`analitik-perkotaan-data.zip`](https://github.com/firmanhadi21/sigro-data/releases/download/analitik-geospasial-perkotaan-v1/analitik-perkotaan-data.zip) · [`analitik-perkotaan-kit.zip`](https://github.com/firmanhadi21/sigro-data/releases/download/analitik-geospasial-perkotaan-v1/analitik-perkotaan-kit.zip) | 91 MB · 0,1 MB |
 | Persiapan Uji Kompetensi Analis SIG (Jenjang 6) | [`uji-kompetensi-analis-sig/`](uji-kompetensi-analis-sig/) | [`ukom-analis-sig-data.zip`](https://github.com/firmanhadi21/sigro-data/releases/download/uji-kompetensi-analis-sig-v1/ukom-analis-sig-data.zip) | 35 MB |
 | Peta Risiko Demam Berdarah Dengue dengan QGIS Processing Modeler | [`peta-risiko-dbd/`](peta-risiko-dbd/) | [`dbd-semarang-latihan.zip`](https://github.com/firmanhadi21/sigro-data/releases/download/peta-risiko-dbd-v1/dbd-semarang-latihan.zip) | 3 MB |
-| Analisis Kesesuaian Lokasi dan Aksesibilitas dengan QGIS | [`analisis-kesesuaian-aksesibilitas/`](analisis-kesesuaian-aksesibilitas/) | [`kesesuaian-brooklyn-latihan.zip`](https://github.com/firmanhadi21/sigro-data/releases/download/analisis-kesesuaian-aksesibilitas-v1/kesesuaian-brooklyn-latihan.zip) | 2 MB |
+| Analisis Kesesuaian Lokasi dan Aksesibilitas dengan QGIS | [`analisis-kesesuaian-aksesibilitas/`](analisis-kesesuaian-aksesibilitas/) | [`kesesuaian-day6-suitability.zip`](https://github.com/firmanhadi21/sigro-data/releases/download/analisis-kesesuaian-aksesibilitas-v1/kesesuaian-day6-suitability.zip) | 17 MB |
 
 ## Aturan
 
