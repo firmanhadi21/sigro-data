@@ -13,12 +13,13 @@ ada di halaman [Releases](https://github.com/firmanhadi21/sigro-data/releases), 
 | Analisis Data Sosial dengan R | [`analisis-data-sosial-r/`](analisis-data-sosial-r/) | [`analisis-data-sosial-r-kit.zip`](https://github.com/firmanhadi21/sigro-data/releases/download/analisis-data-sosial-r-v1/analisis-data-sosial-r-kit.zip) | 3,5 MB |
 | GIS untuk Profesional Lingkungan | [`gis-profesional-lingkungan/`](gis-profesional-lingkungan/) | [`gis-profesional-lingkungan-data.zip`](https://github.com/firmanhadi21/sigro-data/releases/download/gis-profesional-lingkungan-v1/gis-profesional-lingkungan-data.zip) | 60 MB |
 | GIS untuk Penyusun dan Penilai AMDAL | [`gis-penyusun-penilai-amdal/`](gis-penyusun-penilai-amdal/) | [`gis-penyusun-penilai-amdal-data.zip`](https://github.com/firmanhadi21/sigro-data/releases/download/gis-penyusun-penilai-amdal-v1/gis-penyusun-penilai-amdal-data.zip) | 100 MB |
+| Quarto untuk Skripsi | [`quarto-untuk-skripsi/`](quarto-untuk-skripsi/) | [`quarto-untuk-skripsi-kit.zip`](https://github.com/firmanhadi21/sigro-data/releases/download/quarto-untuk-skripsi-v1/quarto-untuk-skripsi-kit.zip) | 0,2 MB |
 
 ## Aturan
 
 - **Data dibekukan.** Angka di video kursus dihitung dari paket ini; unduh paket yang sama agar hasil Anda bisa
   dicocokkan. Bila data diperbarui, rilis baru diberi akhiran `-v2`, `-v3`, dan rilis lama tetap tersedia.
 - **Lisensi mengikuti sumbernya** dan dicantumkan di README setiap folder: OpenStreetMap (ODbL 1.0), Copernicus DEM,
-  WorldPop (CC BY 4.0), Global Harmonized Land Cover, NYC Open Data, INDO-DAPOER Bank Dunia (CC BY 4.0), VIIRS (CC BY 4.0), geoBoundaries (CC BY 3.0 IGO), KawalPemilu, Olken (2007, CC0), HDX COD-AB/BPS (CC BY-IGO), ESA WorldCover dan Hansen GFC (CC BY 4.0), GBIF (rekaman CC0 dan CC BY). Data sintetis dan rencana kegiatan fiktif diberi label jelas.
+  WorldPop (CC BY 4.0), Global Harmonized Land Cover, NYC Open Data, INDO-DAPOER Bank Dunia (CC BY 4.0), VIIRS (CC BY 4.0), geoBoundaries (CC BY 3.0 IGO), KawalPemilu, Olken (2007, CC0), HDX COD-AB/BPS (CC BY-IGO), ESA WorldCover dan Hansen GFC (CC BY 4.0), GBIF (rekaman CC0 dan CC BY), GADM (akademik dan nonkomersial). Data sintetis dan rencana kegiatan fiktif diberi label jelas.
 - **Tidak ada di sini:** kunci jawaban, kode pembuat kursus, dan bahan berhak cipta pihak lain (misalnya pindaian
   Peta Rupabumi Indonesia — dapatkan langsung dari Badan Informasi Geospasial).
