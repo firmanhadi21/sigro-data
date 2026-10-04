@@ -6,7 +6,7 @@ analisis sampai PDF berformat FEB UNDIP dan slide sidang. Mengikuti buku gratis
 
 ## Unduhan (rilis `quarto-untuk-skripsi-v1`)
 
-[`quarto-untuk-skripsi-kit.zip`](https://github.com/firmanhadi21/sigro-data/releases/download/quarto-untuk-skripsi-v1/quarto-untuk-skripsi-kit.zip) (0,2 MB).
+[`quarto-untuk-skripsi-kit.zip`](https://github.com/firmanhadi21/sigro-data/releases/download/quarto-untuk-skripsi-v1/quarto-untuk-skripsi-kit.zip) (0,3 MB).
 Ekstrak, lalu buka `skripsi/skripsi.Rproj` di RStudio.
 
 | Berkas | Isi | Pelajaran |
@@ -42,8 +42,9 @@ resmi BPS dan tidak untuk dikutip. Ganti dengan data asli saat menyusun skripsi 
 
 - **Data latihan** — dari repositori buku [thesis-with-quarto](https://github.com/firmanhadi21/thesis-with-quarto), data
   sintetis.
-- **Batas wilayah** — GADM (gadm.org), tingkat 2. Lisensi GADM: bebas untuk keperluan akademik dan nonkomersial;
-  penggunaan komersial dan redistribusi memerlukan izin dari GADM.
+- **Batas wilayah** — geoBoundaries (Runfola dkk. 2020), gbOpen IDN ADM2, versi *simplified* (batas tahun 2020 dari
+  BPS lewat OCHA/HDX) — CC BY 3.0 IGO. Difilter untuk Jawa Tengah; dua poligon bukan kabupaten/kota (kawasan hutan dan
+  Waduk Kedung Ombo) dibuang.
 - **Gaya sitasi** — `apa.csl` dari Citation Style Language styles (CC BY-SA 3.0).
 - **Templat skripsi** — dari repositori buku; format mengikuti pedoman FEB UNDIP (periksa pedoman terbaru program
   studi Anda).
