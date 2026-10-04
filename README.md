@@ -17,6 +17,6 @@ ada di halaman [Releases](https://github.com/firmanhadi21/sigro-data/releases), 
 - **Data dibekukan.** Angka di video kursus dihitung dari paket ini; unduh paket yang sama agar hasil Anda bisa
   dicocokkan. Bila data diperbarui, rilis baru diberi akhiran `-v2`, `-v3`, dan rilis lama tetap tersedia.
 - **Lisensi mengikuti sumbernya** dan dicantumkan di README setiap folder: OpenStreetMap (ODbL 1.0), Copernicus DEM,
-  WorldPop (CC BY 4.0), Global Harmonized Land Cover, NYC Open Data, INDO-DAPOER Bank Dunia (CC BY 4.0), VIIRS (CC BY 4.0), geoBoundaries (CC BY 3.0 IGO), KawalPemilu, Olken (2007, CC0). Data sintetis diberi label jelas.
+  WorldPop (CC BY 4.0), Global Harmonized Land Cover, NYC Open Data, INDO-DAPOER Bank Dunia (CC BY 4.0), VIIRS (CC BY 4.0), geoBoundaries (CC BY 3.0 IGO), KawalPemilu, Olken (2007, CC0), HDX COD-AB/BPS (CC BY-IGO), ESA WorldCover dan Hansen GFC (CC BY 4.0), GBIF (rekaman CC0 dan CC BY). Data sintetis dan rencana kegiatan fiktif diberi label jelas.
 - **Tidak ada di sini:** kunci jawaban, kode pembuat kursus, dan bahan berhak cipta pihak lain (misalnya pindaian
   Peta Rupabumi Indonesia — dapatkan langsung dari Badan Informasi Geospasial).
