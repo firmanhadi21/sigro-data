@@ -11,6 +11,8 @@ ada di halaman [Releases](https://github.com/firmanhadi21/sigro-data/releases), 
 | Peta Risiko Demam Berdarah Dengue dengan QGIS Processing Modeler | [`peta-risiko-dbd/`](peta-risiko-dbd/) | [`dbd-semarang-latihan.zip`](https://github.com/firmanhadi21/sigro-data/releases/download/peta-risiko-dbd-v1/dbd-semarang-latihan.zip) | 3 MB |
 | Analisis Kesesuaian Lokasi dan Aksesibilitas dengan QGIS | [`analisis-kesesuaian-aksesibilitas/`](analisis-kesesuaian-aksesibilitas/) | [`kesesuaian-day6-suitability.zip`](https://github.com/firmanhadi21/sigro-data/releases/download/analisis-kesesuaian-aksesibilitas-v1/kesesuaian-day6-suitability.zip) | 17 MB |
 | Analisis Data Sosial dengan R | [`analisis-data-sosial-r/`](analisis-data-sosial-r/) | [`analisis-data-sosial-r-kit.zip`](https://github.com/firmanhadi21/sigro-data/releases/download/analisis-data-sosial-r-v1/analisis-data-sosial-r-kit.zip) | 3,5 MB |
+| GIS untuk Profesional Lingkungan | [`gis-profesional-lingkungan/`](gis-profesional-lingkungan/) | [`gis-profesional-lingkungan-data.zip`](https://github.com/firmanhadi21/sigro-data/releases/download/gis-profesional-lingkungan-v1/gis-profesional-lingkungan-data.zip) | 60 MB |
+| GIS untuk Penyusun dan Penilai AMDAL | [`gis-penyusun-penilai-amdal/`](gis-penyusun-penilai-amdal/) | [`gis-penyusun-penilai-amdal-data.zip`](https://github.com/firmanhadi21/sigro-data/releases/download/gis-penyusun-penilai-amdal-v1/gis-penyusun-penilai-amdal-data.zip) | 100 MB |
 
 ## Aturan
 
