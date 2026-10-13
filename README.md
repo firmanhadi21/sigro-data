@@ -15,6 +15,7 @@ ada di halaman [Releases](https://github.com/firmanhadi21/sigro-data/releases), 
 | GIS untuk Penyusun dan Penilai AMDAL | [`gis-penyusun-penilai-amdal/`](gis-penyusun-penilai-amdal/) | [`gis-penyusun-penilai-amdal-data.zip`](https://github.com/firmanhadi21/sigro-data/releases/download/gis-penyusun-penilai-amdal-v1/gis-penyusun-penilai-amdal-data.zip) | 100 MB |
 | Quarto untuk Skripsi | [`quarto-untuk-skripsi/`](quarto-untuk-skripsi/) | [`quarto-untuk-skripsi-kit.zip`](https://github.com/firmanhadi21/sigro-data/releases/download/quarto-untuk-skripsi-v1/quarto-untuk-skripsi-kit.zip) | 0,3 MB |
 | Pemantauan Lingkungan dari Satelit | [`pemantauan-lingkungan-satelit/`](pemantauan-lingkungan-satelit/) | [`pemantauan-lingkungan-satelit-kit.zip`](https://github.com/firmanhadi21/sigro-data/releases/download/pemantauan-lingkungan-satelit-v1/pemantauan-lingkungan-satelit-kit.zip) | 0,2 MB |
+| RustGIS Tutorial | [`rustgis-tutorial/`](rustgis-tutorial/) | [`rustgis-tutorial.zip`](https://github.com/firmanhadi21/sigro-data/releases/download/rustgis-tutorial-v1/rustgis-tutorial.zip) | 45 MB |
 
 ## Aturan
 
