@@ -16,12 +16,13 @@ ada di halaman [Releases](https://github.com/firmanhadi21/sigro-data/releases), 
 | Quarto untuk Skripsi | [`quarto-untuk-skripsi/`](quarto-untuk-skripsi/) | [`quarto-untuk-skripsi-kit.zip`](https://github.com/firmanhadi21/sigro-data/releases/download/quarto-untuk-skripsi-v1/quarto-untuk-skripsi-kit.zip) | 0,3 MB |
 | Pemantauan Lingkungan dari Satelit | [`pemantauan-lingkungan-satelit/`](pemantauan-lingkungan-satelit/) | [`pemantauan-lingkungan-satelit-kit.zip`](https://github.com/firmanhadi21/sigro-data/releases/download/pemantauan-lingkungan-satelit-v1/pemantauan-lingkungan-satelit-kit.zip) | 0,2 MB |
 | RustGIS Tutorial | [`rustgis-tutorial/`](rustgis-tutorial/) | [`rustgis-tutorial.zip`](https://github.com/firmanhadi21/sigro-data/releases/download/rustgis-tutorial-v1/rustgis-tutorial.zip) | 45 MB |
+| Species Distribution Modelling with Maxent | [`maxent-sdm/`](maxent-sdm/) | [`maxent-sdm.zip`](https://github.com/firmanhadi21/sigro-data/releases/download/maxent-sdm-v1/maxent-sdm.zip) · [`maxent-sdm-java.zip`](https://github.com/firmanhadi21/sigro-data/releases/download/maxent-sdm-v1/maxent-sdm-java.zip) | 87 MB · 31 MB |
 
 ## Aturan
 
 - **Data dibekukan.** Angka di video kursus dihitung dari paket ini; unduh paket yang sama agar hasil Anda bisa
   dicocokkan. Bila data diperbarui, rilis baru diberi akhiran `-v2`, `-v3`, dan rilis lama tetap tersedia.
 - **Lisensi mengikuti sumbernya** dan dicantumkan di README setiap folder: OpenStreetMap (ODbL 1.0), Copernicus DEM,
-  WorldPop (CC BY 4.0), Global Harmonized Land Cover, NYC Open Data, INDO-DAPOER Bank Dunia (CC BY 4.0), VIIRS (CC BY 4.0), geoBoundaries (CC BY 3.0 IGO), KawalPemilu, Olken (2007, CC0), HDX COD-AB/BPS (CC BY-IGO), ESA WorldCover dan Hansen GFC (CC BY 4.0), GBIF (rekaman CC0 dan CC BY), FAO GAUL 2025 (CC BY 4.0). Data sintetis dan rencana kegiatan fiktif diberi label jelas.
+  WorldPop (CC BY 4.0), Global Harmonized Land Cover, NYC Open Data, INDO-DAPOER Bank Dunia (CC BY 4.0), VIIRS (CC BY 4.0), geoBoundaries (CC BY 3.0 IGO), KawalPemilu, Olken (2007, CC0), HDX COD-AB/BPS (CC BY-IGO), ESA WorldCover dan Hansen GFC (CC BY 4.0), GBIF (rekaman CC0 dan CC BY; untuk kursus Maxent juga rekaman CC BY-NC iNaturalist, hanya untuk pemakaian non-komersial), FAO GAUL 2025 (CC BY 4.0), CHELSA, ETH Global Canopy Height, WorldPop (CC BY 4.0), SRTM, Landsat, dan DMSP (domain publik), fungsi kawasan hutan KLHK. Data sintetis dan rencana kegiatan fiktif diberi label jelas.
 - **Tidak ada di sini:** kunci jawaban, kode pembuat kursus, dan bahan berhak cipta pihak lain (misalnya pindaian
   Peta Rupabumi Indonesia — dapatkan langsung dari Badan Informasi Geospasial).
