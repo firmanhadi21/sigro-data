@@ -1,6 +1,6 @@
 # Species Distribution Modelling with Maxent — course kit
 
-Course: https://sigro.id/course/maxent-sdm · Software: [Maxent 3.4.4](https://github.com/mrmaxent/Maxent) (MIT),
+[Bahasa Indonesia](README.id.md) · Course: https://sigro.id/course/maxent-sdm · Software: [Maxent 3.4.4](https://github.com/mrmaxent/Maxent) (MIT),
 [QGIS](https://qgis.org) 3.40 or later, Java 11 or later.
 
 Downloads: [`maxent-sdm.zip`](https://github.com/firmanhadi21/sigro-data/releases/download/maxent-sdm-v1/maxent-sdm.zip) (87 MB) · [`maxent-sdm-java.zip`](https://github.com/firmanhadi21/sigro-data/releases/download/maxent-sdm-v1/maxent-sdm-java.zip) (31 MB, for module M10).
