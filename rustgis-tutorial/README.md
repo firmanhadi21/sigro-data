@@ -1,7 +1,7 @@
 # RustGIS Tutorial — paket latihan
 
 Kursus: https://sigro.id/course/rustgis-tutorial · Perangkat: [RustGIS](https://github.com/opengeos/RustGIS)
-**0.2.0** (Apache-2.0)
+**0.3.0** (Apache-2.0)
 
 Unduh: [`rustgis-tutorial.zip`](https://github.com/firmanhadi21/sigro-data/releases/download/rustgis-tutorial-v1/rustgis-tutorial.zip)
 (45 MB). Ekstrak; Anda mendapat folder `rustgis-tutorial/` — simpan di folder pengguna Anda
@@ -22,6 +22,10 @@ di bawah ini. Wilayah latihan: **Semarang Raya** (110,22–110,55 BT; 7,22–6,8
 | `data/semarang_worldpop.tif` | sebaran penduduk WorldPop | latihan mandiri |
 | `perintah/p72.txt`, `perintah/p81.txt` | perintah siap salin untuk panel Script | p72, p81 |
 | `perintah/p101.sh` | alur kerja buffer–erase dengan `rustgis-cli` | p101 |
+| `perintah/p121.txt`, `perintah/p122.txt` | OpenStreetMap, Overture, geoBoundaries, dan pencarian STAC sebagai perintah panel Script | p121, p122 |
+| `perintah/p123.txt` | alamat layanan peta BIG untuk Add Data › From Service | p123 |
+| `perintah/p131.sql` | dua kueri untuk panel SQL (perlu [DuckDB](https://duckdb.org/install/)) | p131 |
+| `notebooks/p132_python.ipynb` | analisis modul R5 dari Python (`pip install "rustgis[jupyter]==0.3.0" geopandas jupyterlab`) | p132 |
 
 Semua data dalam EPSG:4326, kecuali `kecamatan_utm.shp`.
 
