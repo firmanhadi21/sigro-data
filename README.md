@@ -18,6 +18,7 @@ ada di halaman [Releases](https://github.com/firmanhadi21/sigro-data/releases), 
 | RustGIS Tutorial | [`rustgis-tutorial/`](rustgis-tutorial/) | [`rustgis-tutorial.zip`](https://github.com/firmanhadi21/sigro-data/releases/download/rustgis-tutorial-v1/rustgis-tutorial.zip) | 45 MB |
 | Species Distribution Modelling with Maxent | [`maxent-sdm/`](maxent-sdm/) | [`maxent-sdm.zip`](https://github.com/firmanhadi21/sigro-data/releases/download/maxent-sdm-v1/maxent-sdm.zip) · [`maxent-sdm-java.zip`](https://github.com/firmanhadi21/sigro-data/releases/download/maxent-sdm-v1/maxent-sdm-java.zip) | 87 MB · 31 MB |
 | InSAR dengan LiCSBAS / InSAR with LiCSBAS | [`insar-licsbas/`](insar-licsbas/) | [`insar-semarang.zip`](https://github.com/firmanhadi21/sigro-data/releases/download/insar-licsbas-v1/insar-semarang.zip) | 17 MB |
+| Dari Ponsel ke WebGIS | [`dari-ponsel-ke-webgis/`](dari-ponsel-ke-webgis/) | [`survei-fasilitas.zip`](https://github.com/firmanhadi21/sigro-data/releases/download/dari-ponsel-ke-webgis-v1/survei-fasilitas.zip) · [`stack-survei.zip`](https://github.com/firmanhadi21/sigro-data/releases/download/dari-ponsel-ke-webgis-v1/stack-survei.zip) | 0,6 MB · 0,05 MB |
 
 ## Aturan
 
