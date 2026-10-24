@@ -10,6 +10,13 @@ Unduhan (rilis `dari-ponsel-ke-webgis-v1`):
 | [`survei-fasilitas.zip`](https://github.com/firmanhadi21/sigro-data/releases/download/dari-ponsel-ke-webgis-v1/survei-fasilitas.zip) (0,6 MB) | paket latihan: `peta_dasar.gpkg` (batas kampus UNDIP Tembalang, bangunan, jalan), `fasilitas_simbol.qml` (simbol 10 kategori fasilitas), `BACA_SAYA.txt` | modul 1 (pelajaran 1.1–1.3) |
 | [`stack-survei.zip`](https://github.com/firmanhadi21/sigro-data/releases/download/dari-ponsel-ke-webgis-v1/stack-survei.zip) (0,05 MB) | kit server: Mergin Maps CE 2025.7.3, G3W-Suite (QGIS Server 3.44) + PostGIS, mergin-db-sync, nginx + Let's Encrypt, skrip pemasangan `00`–`06`, cadangan, `foto_sync.sh`; panduan di `stack-survei/README.md` | modul 4 dan 6 |
 
+Di folder ini juga: [`fasilitas.sql`](fasilitas.sql), tabel PostGIS untuk proyek `survei-fasilitas` yang
+disinkronkan mergin-db-sync (modul 4, pelajaran 4.1):
+
+```bash
+wget https://raw.githubusercontent.com/firmanhadi21/sigro-data/main/dari-ponsel-ke-webgis/fasilitas.sql
+```
+
 ## Kit server singkatnya
 
 Butuh VPS **x86-64** (bukan ARM) dengan Ubuntu 22.04/24.04, disarankan 4 vCPU / 8 GB RAM, dua nama host dengan
